@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<h1 align="center">Md Abid Hasan</h1>
+<h3 align="center">Web Developer</h3>
+<h5 align="center">JavaScript • React • MongoDB • TailwindCSS Developer</h5>
+
 <img width="1536" height="1024" alt="ChatGPT Image Nov 19, 2025, 02_26_28 PM" src="https://github.com/user-attachments/assets/00b0c175-06ee-44cc-b4a2-8c961b3be160" />
 
 
