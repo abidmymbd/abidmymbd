@@ -44,7 +44,7 @@ I believe in writing code that’s simple, scalable and actually solves problems
 </p>
 
 
-### 🌐 Connect With Me  
+### Connect With Me  
 
 <p align="center">
 
@@ -54,23 +54,18 @@ I believe in writing code that’s simple, scalable and actually solves problems
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <a href="https://github.com/abidmymbd" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
 
   <!-- Facebook -->
-  <a href="https://facebook.com/YOUR-LINK" target="_blank">
+  <a href="https://web.facebook.com/abid.mym.bd/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" width="50" />
   </a>
 
   <!-- Email -->
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:abid.mym.bd@.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
-
-  <!-- Portfolio -->
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50" />
   </a>
 
 </p>
