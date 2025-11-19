@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Banner](https://github.com/user-attachments/assets/00b0c175-06ee-44cc-b4a2-8c961b3be160)
+
+
 <!--
 **abidmymbd/abidmymbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="1536" height="1024" alt="ChatGPT Image Nov 19, 2025, 02_26_28 PM" src="https://github.com/user-attachments/assets/00b0c175-06ee-44cc-b4a2-8c961b3be160" />
+
